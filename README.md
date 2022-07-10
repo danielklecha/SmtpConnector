@@ -1,6 +1,6 @@
 # SmtpConnector
 
-SMPT connector allow to push email forward using different provider.
+SMPT connector allow to forward email using different provider.
 
 ## Configuration
 
